@@ -1,0 +1,14 @@
+[
+    {
+        "name": "A",
+        "type": "Car",
+        "price": "1000000",
+        "image": "https:\/\/as2.ftcdn.net\/v2\/jpg\/03\/03\/30\/09\/1000_F_303300982_MCK0FwiS0eCvVzvtA4AwI50ulEQs9oyM.jpg"
+    },
+    {
+        "name": "B",
+        "type": "Motorcycle",
+        "price": "200000",
+        "image": "https:\/\/as1.ftcdn.net\/v2\/jpg\/00\/30\/69\/86\/1000_F_30698643_nQ78zqEFCtCUA77bgNaFRpR34FcIuJIY.jpg"
+    }
+]
