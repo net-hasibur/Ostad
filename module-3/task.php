@@ -24,7 +24,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             "task" => htmlspecialchars(trim($_POST['task'])),
             "done" => false
         ];
-    }
+    } 
 
     if (isset($_POST['toggle'])) {
         $index = (int)$_POST['toggle'];
